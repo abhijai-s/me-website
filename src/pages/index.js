@@ -17,6 +17,7 @@ export default function Home() {
        Hello world! 
       </h1>
 <h1> I </h1>
+<h2>hi ia m abjijai</h2>
     </>
   )
 }
