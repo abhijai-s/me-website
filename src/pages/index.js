@@ -16,7 +16,7 @@ export default function Home() {
       <h1 className="text-3xl font-bold underline text-blue">
        Hello world! 
       </h1>
-<h1> HI </h1>
+<h1> I </h1>
     </>
   )
 }
